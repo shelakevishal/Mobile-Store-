@@ -17,4 +17,7 @@ public class MobilePhoneDto {
 	@Id
 	private String brandName;
 	private String color;
+		private String Name;
+
+
 }
