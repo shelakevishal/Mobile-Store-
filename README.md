@@ -26,7 +26,4 @@ Run Spring Boot app using Maven:
       java -jar target/mywebserviceapp-0.0.1-SNAPSHOT.jar
 
 hello team welcome to skillassure
-Added one in line
-added one more line to the file
-example
-vishal
+good morning 
